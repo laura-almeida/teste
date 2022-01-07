@@ -1,0 +1,132 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: yellow;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15mm;
+}
+h6{
+    color: white;
+    text-align: center;
+    font-size: 6mm;
+    font-family: 'Roboto', sans-serif;
+}
+#eu{
+    color: yellow;
+    text-align: center;
+    font-size: 6mm;
+    font-family: 'Roboto', sans-serif;
+}
+
+#conteudo{
+    color: white;
+    text-align: center;
+    font-size: 5mm;
+    font-family: 'Roboto', sans-serif;
+}
+
+h3{
+    color: yellow;
+    text-align: center;
+    font-size: 7mm;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-size: 8mm;
+}
+
+#imagem1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550;
+    height: 300;
+}
+
+#imagem2{
+    width: 200;
+    height: 200;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#imagem3{
+    width: 200;
+    height: 200;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#imagem4{
+    width: 200;
+    height: 200;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#card{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#text{
+    text-align: center;
+    font-size: 5.5mm;
+    font-family: 'Roboto', sans-serif;
+}
+
+#titulo{
+    text-align: center;
+    color: yellow;
+    font-size: 9mm;
+    font-family: 'Roboto', sans-serif;
+}
+
+#botimg1{
+    width: 160;
+    height: 90;  
+}
+
+#botao2{
+    width: 160;
+    height: 80;  
+}
+
+#botao3{
+    width: 160;
+    height: 80;  
+}
+
+#video{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 550;
+    height: 300;
+}
+
+#info{
+    width: 140;
+    height: 60;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+#informacoes{
+    text-align: center;
+    color: white;
+    font-size: 5mm;
+    font-family: 'Roboto', sans-serif;
+}
+
+#link{
+    color: white;
+}
